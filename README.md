@@ -1,4 +1,4 @@
-![40shots_so](https://github.com/jeandv/my-next-portfolio/assets/90219458/da737d03-e841-4ce0-a9e3-e5f187073412)
+<!-- ![40shots_so](https://github.com/jeandv/my-next-portfolio/assets/90219458/da737d03-e841-4ce0-a9e3-e5f187073412)
 
 ⚡My new portfolio with Blog using Next.js 13 + TypeScript, Tailwind CSS and Sanity CMS⚡
 
@@ -85,4 +85,4 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details. -->
