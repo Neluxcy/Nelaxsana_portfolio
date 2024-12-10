@@ -133,7 +133,7 @@ const FavProjects = () => {
 
   const slides = favProjects.map((item) => (
     <Carousel.Slide key={item.title}>
-      <Card {...item} />
+      <Card link={''} {...item} />
     </Carousel.Slide>
   ));
 
